@@ -38,6 +38,10 @@ En tu fork, abre cada archivo y haz clic en el lápiz para editarlo. Busca los `
 
 Cuando termines con un archivo, haz clic en **Commit changes**.
 
+### Temas
+
+Este fork tiene varios temas. Cada uno cambia el nombre de la fiesta, el grito, los colores y lo que trae la piñata (los TODO 1 a 4), y todos viven en la lista `temas` al inicio de `script.js`. Quien juega elige el tema con los botones de arriba, y al romper la piñata puede pedir un **Tema sorpresa**. Para agregar un tema, copia uno de la lista y cámbiale los valores.
+
 ## 4. Publica tu piñata con Amplify
 
 1. Abre la [consola de Amplify](https://console.aws.amazon.com/amplify/create/repo-branch?trk=54e40584-a59e-4b8d-a5b4-ecfbd722ff7e&sc_channel=el).
